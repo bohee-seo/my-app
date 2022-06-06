@@ -6,6 +6,6 @@ Documentation
 
 
 *** Test Cases ***
-TC_001 Browser Start and Close
+TC_001_BrowserStartandClose
 	Open Browser  "https://www.google.com" gc
 	Close Browser
