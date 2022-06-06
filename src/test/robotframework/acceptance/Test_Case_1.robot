@@ -1,8 +1,11 @@
 *** Settings ***
-Documentation  A resource file containing the application specific keywords
-Library		Selenium2Library
+Library  Selenium2Library
+Documentation
+...    Login Test Case.
+
+
 
 *** Test Cases ***
-simple robotframework test
-	Open Browser  https://testguild.com  ff
+TC_001 Browser Start and Close
+	Open Browser  "https://www.google.com" gc
 	Close Browser
