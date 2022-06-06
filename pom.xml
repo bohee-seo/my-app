@@ -53,7 +53,7 @@
                 <executions>
                     <execution>
                         <goals>
-                            <goal>run</goal>
+                            <goal>acceptance-test</goal>
                         </goals>
                     </execution>
                 </executions>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite failures="1" skipped="0" tests="1" name="Acceptance" time="1.264" errors="0">
-<testcase classname="Acceptance.Test Case 1" name="TC_001 Browser Start and Close" time="0.389">
+<testsuite failures="1" skipped="0" tests="1" name="Acceptance" time="0.703" errors="0">
+<testcase classname="Acceptance.Test Case 1" name="TC_001 Browser Start and Close" time="0.203">
 <failure message="ImportError: cannot import name GLOBAL_VARIABLES" type="AssertionError"/>
 </testcase>
 </testsuite>
