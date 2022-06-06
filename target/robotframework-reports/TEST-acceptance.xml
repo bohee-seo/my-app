@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite failures="1" skipped="0" tests="1" name="Acceptance" time="47.232" errors="0">
+<testcase classname="Acceptance.Test Case 1" name="Check out joe colantonio dot com" time="46.343">
+<failure message="org.openqa.selenium.WebDriverException: Failed to connect to binary FirefoxBinary(C:\Program Files\Mozilla Firefox\firefox.exe) on port 7055; process output follows: &#10;console.error: Enterprise Policies: &#10;  Error parsing JSON file: SyntaxError: JSON.parse: expected ',' or ']' after array element at line 234 column 7 of the JSON data&#10;JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.&#10;&#10;Build info: version: '2.48.2', revision: '41bccdd10cf2c0560f637404c2d96164b67d9d67', time: '2015-10-09 13:08:06'&#10;System info: host: 'nimbusclient', ip: '192.168.1.96', os.name: 'Windows Server 2019', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_302'&#10;Driver info: driver.version: FirefoxDriver" type="AssertionError"/>
+</testcase>
+</testsuite>
