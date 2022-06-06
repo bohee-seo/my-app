@@ -24,7 +24,7 @@
         <artifactId>robotframework-maven-plugin</artifactId>
         <version>2.1.0</version>
         <scope>test</scope>
-    </dependency>:
+    </dependency>
 
 
     <!-- https://mvnrepository.com/artifact/com.github.markusbernhardt/robotframework-selenium2library-java -->
