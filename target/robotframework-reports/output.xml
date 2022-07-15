@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot rpa="false" generator="Robot 4.1 (Jython 2.7.2 on java1.8.0_302)" schemaversion="2" generated="20220606 19:35:26.705">
+<robot rpa="false" generator="Robot 4.1 (Jython 2.7.2 on java1.8.0_302)" schemaversion="2" generated="20220715 15:15:07.381">
 <suite source="C:\Users\demo\IdeaProjects\Repo\my-app\src\test\robotframework\acceptance" name="Acceptance" id="s1">
 <suite source="C:\Users\demo\IdeaProjects\Repo\my-app\src\test\robotframework\acceptance\Test_Case_1.robot" name="Test Case 1" id="s1-s1">
-<test name="TC_001 Browser Start and Close" id="s1-s1-t1">
+<test name="TC_001_BrowserStartandClose" id="s1-s1-t1">
 <kw library="Selenium2Library" name="Open Browser">
 <arg>"https://www.google.com" gc</arg>
 <kw library="Selenium2Library" name="Capture Page Screenshot">
-<msg level="FAIL" timestamp="20220606 19:35:27.259">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.261" starttime="20220606 19:35:27.238" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:07.934">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:07.936" starttime="20220715 15:15:07.891" status="FAIL"/>
 </kw>
 <kw library="Selenium2Library" name="Capture Page Screenshot">
-<msg level="FAIL" timestamp="20220606 19:35:27.283">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.284" starttime="20220606 19:35:27.267" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:07.959">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:07.961" starttime="20220715 15:15:07.942" status="FAIL"/>
 </kw>
 <kw library="Selenium2Library" name="Capture Page Screenshot">
-<msg level="FAIL" timestamp="20220606 19:35:27.308">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.310" starttime="20220606 19:35:27.290" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:07.990">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:07.992" starttime="20220715 15:15:07.967" status="FAIL"/>
 </kw>
 <kw library="Selenium2Library" name="Capture Page Screenshot">
-<msg level="FAIL" timestamp="20220606 19:35:27.335">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.336" starttime="20220606 19:35:27.317" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:08.039">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:08.041" starttime="20220715 15:15:08.010" status="FAIL"/>
 </kw>
 <kw library="Selenium2Library" name="Capture Page Screenshot">
-<msg level="FAIL" timestamp="20220606 19:35:27.362">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.363" starttime="20220606 19:35:27.345" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:08.069">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:08.071" starttime="20220715 15:15:08.050" status="FAIL"/>
 </kw>
 <kw library="Selenium2Library" name="Capture Page Screenshot">
-<msg level="FAIL" timestamp="20220606 19:35:27.386">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.388" starttime="20220606 19:35:27.370" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:08.096">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:08.098" starttime="20220715 15:15:08.079" status="FAIL"/>
 </kw>
-<msg level="FAIL" timestamp="20220606 19:35:27.404">ImportError: cannot import name GLOBAL_VARIABLES</msg>
-<status endtime="20220606 19:35:27.404" starttime="20220606 19:35:27.216" status="FAIL"/>
+<msg level="FAIL" timestamp="20220715 15:15:08.111">ImportError: cannot import name GLOBAL_VARIABLES</msg>
+<status endtime="20220715 15:15:08.113" starttime="20220715 15:15:07.852" status="FAIL"/>
 </kw>
 <kw library="Selenium2Library" name="Close Browser">
-<status endtime="20220606 19:35:27.407" starttime="20220606 19:35:27.406" status="NOT RUN"/>
+<status endtime="20220715 15:15:08.115" starttime="20220715 15:15:08.114" status="NOT RUN"/>
 </kw>
-<status endtime="20220606 19:35:27.415" starttime="20220606 19:35:27.212" status="FAIL">ImportError: cannot import name GLOBAL_VARIABLES</status>
+<status endtime="20220715 15:15:08.121" starttime="20220715 15:15:07.849" status="FAIL">ImportError: cannot import name GLOBAL_VARIABLES</status>
 </test>
 <doc>Login Test Case.</doc>
-<status endtime="20220606 19:35:27.421" starttime="20220606 19:35:26.972" status="FAIL"/>
+<status endtime="20220715 15:15:08.129" starttime="20220715 15:15:07.669" status="FAIL"/>
 </suite>
-<status endtime="20220606 19:35:27.427" starttime="20220606 19:35:26.724" status="FAIL"/>
+<status endtime="20220715 15:15:08.142" starttime="20220715 15:15:07.393" status="FAIL"/>
 </suite>
 <statistics>
 <total>
@@ -54,6 +54,6 @@
 </suite>
 </statistics>
 <errors>
-<msg level="WARN" timestamp="20220606 19:35:26.589">Command line option --xunitskipnoncritical has been deprecated and has no effect.</msg>
+<msg level="WARN" timestamp="20220715 15:15:07.277">Command line option --xunitskipnoncritical has been deprecated and has no effect.</msg>
 </errors>
 </robot>
